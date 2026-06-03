@@ -315,5 +315,13 @@ button:hover {
     transition: none !important;
     scroll-behavior: auto;
   }
+.video-testimonio{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
 
+.video-testimonio video{
+    max-width: 100%;
+    border-radius: 10px;
 }
